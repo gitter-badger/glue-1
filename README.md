@@ -7,6 +7,8 @@
 Glue
 ====
 
+[![Join the chat at https://gitter.im/glue-viz/glue](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/glue-viz/glue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Glue is a python project to link visualizations of scientific datasets
 across many files. Click on the image for a quick demo:
 
